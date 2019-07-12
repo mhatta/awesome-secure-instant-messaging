@@ -15,7 +15,7 @@ This is a work in progress.  Any contributions is welcome.
 
 - [Briar](https://briarproject.org/) - Support messaging and forums.  No central servers.  Written mostly in Java.  Run on Android.
 - [CoyIM](https://coy.im/) - Support messaging.  Built on XMPP, OTR, Tor.  No central servers.  Written in Go.  Run on GNU/Linux, Windows, MacOS.
-- [darkspeak](https://github.com/jgaa/darkspeak) - Written in C++.  Built on Tor.
+- [darkspeak](https://github.com/jgaa/darkspeak) - Built on Tor.  Written in C++.
 - [Ricochet](https://ricochet.im/) - Support messaging.  Built on XMPP, Tor.  No central servers.  Written in C++.  Code reviewed.  Run on GNU/Linux, Windows, MacOS.
 
 # Not Metadata-free by default
@@ -25,7 +25,7 @@ This is a work in progress.  Any contributions is welcome.
 # Historical/Sunseted
 
 - [TorChat](https://github.com/prof7bit/TorChat) - Written in Pascal.
-- [Tor Messenger](https://thetorproject.github.io/tor-messenger-website/) -
+- [Tor Messenger](https://thetorproject.github.io/tor-messenger-website/)
 - [TorTribe](https://github.com/TorTribe/tortribe-desktop-java8) - Written in Java.
 
 # License
